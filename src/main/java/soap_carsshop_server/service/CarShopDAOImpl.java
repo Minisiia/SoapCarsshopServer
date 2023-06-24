@@ -20,10 +20,6 @@ public class CarShopDAOImpl implements CarShopDAO {
     public List<String> getAllMarks() {
         List<String> marks = new ArrayList<String>();
 
-
-//        marks.add("m");
-//        marks.add("n");
-
         String query = "SELECT mark FROM marks";
 
         try (Statement statement = connection.createStatement();
