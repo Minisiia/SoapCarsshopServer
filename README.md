@@ -9,6 +9,8 @@ Using the script from the carsshop.sql attachments, create the carsshop database
 
 ## Заметки
 
+![soap-carsshop](https://github.com/Minisiia/SoapCarsshopServer/assets/113467640/975b0a56-c861-4adb-a2a9-061cf7d88511)
+
 ### Ошибка java.sql.SQLException: No suitable driver found for jdbc:mysql://localhost:3306/carsshop_demo
 
 Решалась добавлением 
